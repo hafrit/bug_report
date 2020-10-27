@@ -1,7 +1,7 @@
 HELP
 ================
 
-RUN Project:
+INIT Project:
 ```console
 sh bin/reinit.sh
 ```
