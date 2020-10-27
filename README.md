@@ -7,6 +7,6 @@ sh bin/reinit.sh
 ```
 
 API-PLATFORM:
-http://dev.my-docker.local/api
+http://127.0.0.1/api
 
-Bug-link: http://dev.my-docker.local/api/users?pagination=false
+Bug-link: http://127.0.0.1/api/users?pagination=false
